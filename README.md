@@ -13,7 +13,8 @@ a "The Lives of Four Kings", "Lives of Four Kings"
 q "**In A Feast for Crows, Areo Hotah kills Arys Oakheart along which river?**"
 a "The Greenblood", "Greenblood"
 
-
+q "**What was the nickname of Queen Sharra Arryn?"
+a "The Flower of the Mountain", "Flower of the Mountain"
 
 
 
