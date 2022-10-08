@@ -19,7 +19,7 @@ a "The Flower of the Mountain", "Flower of the Mountain"
 q "**What tree is featured in the sigil of House Forrester?**"
 a "Ironwood", "Ironwood Tree"
 
-q "**What is the pidin language commonly used by sailors in the Free Cities?**"
+q "**What is the pidgin language commonly used by sailors in the Free Cities?**"
 a "Trade Talk", "Trade Tongue"
 
 
