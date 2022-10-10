@@ -31,65 +31,65 @@ a "King Aerys I Targaryen", "Aerys I Targaryen", "Aerys I", "Aerys 1", "Aerys"
 
 q "**Name the House!**"
 a "House Broom", "Broom"
-i 
+i "https://i.imgur.com/Pge6Hva.jpg"
 
 q "**Name the House!**"
 a "House Cargyll", "Cargyll"
-i
+i "https://i.imgur.com/GRjDvSw.jpg"
 
 q "**Name the House!**"
 a "House Falwell", "Falwell"
-i
+i "https://i.imgur.com/pVsvE2J.jpg"
 
 q "**Name the House!**"
 a "House Bettley", "Bettley"
-i
+i "https://i.imgur.com/2u9YdUz.jpg"
 
 q "**Name the House!**"
 a "House Payne", "Payne"
-i
+i "https://i.imgur.com/tBpLnb8.jpg"
 
 q "**Name the House!**"
 a "House Manderly", "Manderly"
-i
+i "https://i.imgur.com/iLHd5OI.jpg"
 
 q "**Name the House!**"
 a "House Orme", "Orme"
-i
+i "https://i.imgur.com/MBYcoXU.jpg"
 
 q "**Name the House!**"
 a "House Brax", "Brax"
-i
+i "https://i.imgur.com/CqQKYDz.jpg"
 
 q "**Name the House!**"
 a "House Ashford", "Ashford"
-i
+i "https://i.imgur.com/gk2XxpO.jpg"
 
 q "**Name the House!**"
 a "House Lydden", "Lydden"
-i
+i "https://i.imgur.com/VScs07W.jpg"
 
 q "**Name the House!**"
 a "House Glover", "Glover"
-i
+i "https://i.imgur.com/WpKm16x.jpg"
 
 q "**Name the House!**"
 a "House Lipps", "Lipps"
-i
+i "https://i.imgur.com/skc6C6u.jpg"
 
 q "**Name the House!**"
 a "House Rosby", "Rosby"
-i
+i "https://i.imgur.com/og4Zgmi.jpg"
 
 q "**Name the House!**"
 a "House Connington", "Connington"
-i
+i "https://i.imgur.com/o8jd25n.jpg"
 
 q "**Name the House!**"
 a "House Karstark", "Karstark"
-i
+i "https://i.imgur.com/EpgmIEm.jpg"
 
-q "**The sigils of House Harlaw and its cadets include which weapon?"
+q "**The sigils of House Harlaw and its cadets include which weapon?**"
 a "Scythe"
 
 
