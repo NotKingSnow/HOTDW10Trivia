@@ -103,7 +103,35 @@ a "Alys Westhill", "Alys", "Lady Westhill", "Westhill"
 q "**The strait which connects the Summer Sea and the Jade Sea is known as?**"
 a "The Jade Gates", "Jade Gates"
 
+q "**Godsgrace is the seat of which House?**"
+a "House Allyrion", "Allyrion"
 
+q "**Raventree Hall is the seat of which House?**"
+a "House Blackwood", "Blackwood"
+
+q "**Bitterbridge is the seat of which House?**"
+a "House Caswell", "Caswell"
+
+q "**Faircastle is the seat of which House?**"
+a "House Farman", "Farman"
+
+q "**Kingsgrave is the seat of which House?**"
+a "House Manwoody", "Manwoody"
+
+q "**Seagard is the seat of which House?**"
+a "House Mallister", "Mallister"
+
+q "**Torrhen's Square is the seat of which House?**"
+a "House Tallhart", "Tallhart"
+
+q "**Last Hearth is the seat of which House?**"
+a "House Umber", "Umber"
+
+q "**Brightwater Keep is the seat of which House?**"
+a "House Florent", "Florent"
+
+q "**Goldengrove is the seat of which House?**"
+a "House Rowan", "Rowan"
 
 
 
