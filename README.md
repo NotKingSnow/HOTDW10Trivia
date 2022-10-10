@@ -28,7 +28,6 @@ a "Maidenpool"
 q "**Under what King did the Second and Third Blackfyre Rebellions occur?**"
 a "King Aerys I Targaryen", "Aerys I Targaryen", "Aerys I", "Aerys 1", "Aerys"
 
-
 q "**Name the House!**"
 a "House Broom", "Broom"
 i "https://i.imgur.com/Pge6Hva.jpg"
@@ -91,6 +90,9 @@ i "https://i.imgur.com/EpgmIEm.jpg"
 
 q "**The sigils of House Harlaw and its cadets include which weapon?**"
 a "Scythe"
+
+q "**What is the name of the Meereen City Watch under Queen Daenerys Targaryen?**"
+a "The Brazen Beasts", "Brazen Beasts"
 
 
 
