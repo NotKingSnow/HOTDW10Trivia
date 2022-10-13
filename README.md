@@ -136,7 +136,7 @@ a "House Rowan", "Rowan"
 q "**In A Feast for Crows, whom does Jaime Lannister have sing *The Rains of Castamere* to Edmure Tully?**"
 a "Tom of Sevenstreams", "Tom"
 
-q "**In A Clash of Kings, whom does King Joffrey Baratheon grant Darry following the Battle of the Blackwater?**"
+q "**In A Clash of Kings, to whom does King Joffrey Baratheon grant Darry following the Battle of the Blackwater?**"
 a "Ser Lancel Lannister", "Lancel Lannister", "Lancel"
 
 q "**In A Feast or Crows, what is the name of the Night's Watch deserter killed by Arya Stark in Braavos?**"
@@ -145,9 +145,23 @@ a "Dareon"
 q "**Who was the last known member of the male line of House Blackfyre?**"
 a "Maelys I Blackfyre", "Maelys Blackfyre", "Maelys"
 
+q "**In A Clash of Kings, what is the name of the wildling village the Night's Watch discovers as abandoned containing a massive weirwood tree?**"
+a "Whitetree"
 
+q "**In Game of Thrones, who crowns Queen Sansa Stark during her coronation?**"
+a "Maester Wolkan", "Wolkan"
 
+q "**At the start of Season 5, who is the only remaining member of the Small Council from Season 1?**"
+a "Grand Maester Pycelle", "Pycelle", "Maester Pycelle"
 
+q "**In A Feast for Crows, who was named castellan of Harrenhal after Gregor Clegane's departure?**"
+a "Polliver"
+
+q "**In Game of Thrones, Melisandre tells Shireen Baratheon that what book is full of lies?**"
+a "The Seven-Pointed Star", "The Seven Pointed Star", "Seven Pointed Star", "Seven-Pointed Star"
+
+q "**Lord Randyll Tarly's wife, Lady Melessa, is a member of what House?**"
+a "House Florent", "Florent"
 
 
 
