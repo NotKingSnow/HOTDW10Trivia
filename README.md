@@ -185,7 +185,7 @@ q "**What is the nickname of a recruiter from the Night's Watch?**"
 a "Wandering Crow", "A Wandering Crow"
 
 q "**In A Game of Thrones, two members of King Robert's small council spoke out against assassinating Daenerys Taragaryen. Eddard Stark was one, who was the other?**"
-a "Ser Barristan Selmy", "Barristan Selmy, "Barristan"
+a "Ser Barristan Selmy", "Barristan Selmy", "Barristan"
 
 q "**In A Game of Thrones, what is the name of the ship contracted by Eddard Stark to get his daughters out of King's Landing?**"
 a "The Wind Witch", "Wind Witch"
