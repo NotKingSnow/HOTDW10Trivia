@@ -172,7 +172,7 @@ a  "Though All Men Do Despise Us"
 q "**What are the words of House Bolton?**
 a "Our Blades Are Sharp"
 
-q "What are the words of House Farman?**"
+q "**What are the words of House Farman?**"
 a "The Wind Our Steed"
 
 q "**What is Mors Umber's nickname?**"
