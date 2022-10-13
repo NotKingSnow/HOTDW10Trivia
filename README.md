@@ -163,9 +163,35 @@ a "The Seven-Pointed Star", "The Seven Pointed Star", "Seven Pointed Star", "Sev
 q "**Lord Randyll Tarly's wife, Lady Melessa, is a member of what House?**"
 a "House Florent", "Florent"
 
+q "**What are the words of House Buckwell?**"
+a "Pride and Purpose"
 
+q "**What are the words of House Codd?**"
+a  "Though All Men Do Despise Us"
 
+q "**What are the words of House Bolton?**
+a "Our Blades Are Sharp"
 
+q "What are the words of House Farman?**"
+a "The Wind Our Steed"
+
+q "**What is Mors Umber's nickname?**"
+a "Mors Crowfood", "Crowfood"
+
+q "**In The Winds of Winter, whom does King Stannis Baratheon task with leading Jeyne Poole's escort to Castle Black?**"
+a "Ser Justin Massey", "Justin Massey"
+
+q "**What is the nickname of a recruiter from the Night's Watch?**"
+a "Wandering Crow", "A Wandering Crow"
+
+q "**In A Game of Thrones, two members of King Robert's small council spoke out against assassinating Daenerys Taragaryen. Eddard Stark was one, who was the other?**"
+a "Ser Barristan Selmy", "Barristan Selmy, "Barristan"
+
+q "**In A Game of Thrones, what is the name of the ship contracted by Eddard Stark to get his daughters out of King's Landing?**"
+a "The Wind Witch", "Wind Witch"
+
+q "**How many episodes of Game of Thrones include House words as the title?**"
+a "Four", "4"
 
 
 
