@@ -22,7 +22,7 @@ a "Ironwood", "Ironwood Tree"
 q "**What is the pidgin language commonly used by sailors in the Free Cities?**"
 a "Trade Talk", "Trade Tongue"
 
-q "**While serving as cupbearer to Tywin Lannister, Arya Stark firsr claimed to be from what Riverlands location?**"
+q "**While serving as cupbearer to Tywin Lannister, Arya Stark first claimed to be from what Riverlands location?**"
 a "Maidenpool"
 
 q "**Under what King did the Second and Third Blackfyre Rebellions occur?**"
