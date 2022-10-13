@@ -133,7 +133,8 @@ a "House Florent", "Florent"
 q "**Goldengrove is the seat of which House?**"
 a "House Rowan", "Rowan"
 
-
+q "**In A Feast for Crows, whom does Jaime Lannister have sing *The Rains of Castamere* to Edmure Tully?**"
+a "Tom of Sevenstreams", "Tom"
 
 
 
