@@ -136,9 +136,14 @@ a "House Rowan", "Rowan"
 q "**In A Feast for Crows, whom does Jaime Lannister have sing *The Rains of Castamere* to Edmure Tully?**"
 a "Tom of Sevenstreams", "Tom"
 
+q "**In A Clash of Kings, whom does King Joffrey Baratheon grant Darry following the Battle of the Blackwater?**"
+a "Ser Lancel Lannister", "Lancel Lannister", "Lancel"
 
+q "**In A Feast or Crows, what is the name of the Night's Watch deserter killed by Arya Stark in Braavos?**"
+a "Dareon"
 
-
+q "**Who was the last known member of the male line of House Blackfyre?**"
+a "Maelys I Blackfyre", "Maelys Blackfyre", "Maelys"
 
 
 
